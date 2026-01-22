@@ -64,7 +64,7 @@ export default function Home() {
               Generate a tailored recipe in seconds
             </h1>
             <span className="rounded-full bg-slate-800/60 px-3 py-1 text-xs text-emerald-300">
-              Powered by OpenAI
+              Powered by Ajit
             </span>
           </div>
           <p className="max-w-3xl text-sm text-slate-300">
